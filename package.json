@@ -13,7 +13,7 @@
   ],
   "author": "Vipul Nema",
   "license": "ISC",
-  "peerDependencies": {
+  "dependencies": {
     "eslint": "^5.16.0",
     "eslint-config-airbnb": "^17.0.0",
     "eslint-plugin-import": "^2.12.0",
