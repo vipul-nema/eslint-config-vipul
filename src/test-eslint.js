@@ -1,4 +1,4 @@
-const a = 'a';
+var a = 'a';
 console.log(a);
 if (1) {
   const b = 6;
